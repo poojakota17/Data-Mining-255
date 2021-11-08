@@ -1,6 +1,6 @@
 # Data-Mining-255
 Image Data set : Fashion_mnist dataset : https://www.kaggle.com/zalando-research/fashionmnist
-Tabular Dataset : HEart Disease Dataset : https://kmeanscluster.s3.amazonaws.com/newHeartDataset.csv
+Tabular Dataset : Heart Disease Dataset : https://kmeanscluster.s3.amazonaws.com/newHeartDataset.csv
 
 ### Objective : Find results of various dimensionality reduction techniques on image and tabular dataset.
 
