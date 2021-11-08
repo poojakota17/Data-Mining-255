@@ -10,5 +10,6 @@ Tabular Dataset : HEart Disease Dataset : https://kmeanscluster.s3.amazonaws.com
 
 #### Tabular Dataset Comparison
 > The best result in classification with tabular dataset was with PCA with 62% comapared to 70% by taking all the features in the dataset.
-<img src="DRT2.png">
+> 
+![Tabular Dataset](https://github.com/poojakota17/Data-Mining-255/blob/HW-2/DRT2.PNG)
 
