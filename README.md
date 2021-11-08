@@ -1,4 +1,6 @@
 # Data-Mining-255
+Colab link : https://colab.research.google.com/drive/1Nxp6mKsDpFpYv5xo1RjgLior0E7HDWE4?usp=sharing
+
 Image Data set : Fashion_mnist dataset : https://www.kaggle.com/zalando-research/fashionmnist
 
 Tabular Dataset : Heart Disease Dataset : https://kmeanscluster.s3.amazonaws.com/newHeartDataset.csv
