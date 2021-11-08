@@ -6,7 +6,7 @@ Tabular Dataset : HEart Disease Dataset : https://kmeanscluster.s3.amazonaws.com
 
 #### Image Dataset Comparison
 > The best result of clustering in image dataset was with UMAP.
-![Image Dataset](DRT.png)
+![Image Dataset](https://github.com/poojakota17/Data-Mining-255/blob/HW-2/DRT.PNG)
 
 #### Tabular Dataset Comparison
 > The best result in classification with tabular dataset was with PCA with 62% comapared to 70% by taking all the features in the dataset.
