@@ -9,7 +9,7 @@ It is a stackexchange dataset consists of user-question interaction and question
 2. Retrieve the dataset using fetch_stackexchange() and model it using LightFM to create a vector embedding of item and features.
 3. Open a pickle file in writing mode and store the feature labels, vector and item features, so that it can be used again without re-loading
 4. Load the data from the pickle file to work with it.
-5. Function to retrieve the tags of a question based on question id
+5. Created a function to retrieve the tags of a question based on question id
 6. A class is created for each algorithm. The class have a get_similar_tagged_questions function to get similar tags for a particular vector. We can see the ouput below. The output shows 12 question id's which are similar to the input and their corresponding tags. The output is shown below for Exhaustive Search.
 ```
 {'question_id:0': ['bayesian', 'prior', 'elicitation'],
