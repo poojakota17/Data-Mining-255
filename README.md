@@ -1,6 +1,8 @@
 # Data-Mining-255
 Dataset : https://making.lyst.com/lightfm/docs/_modules/lightfm/datasets/stackexchange.html
 
+colab : https://colab.research.google.com/drive/1cZDw8w1rSi-YMG76nGLzRocIt8Ztb3vL?usp=sharing
+
 It is a stackexchange dataset consists of user-question interaction and question and tags item features
 
 ### Objective : Use state of art libraries for Approximate nearest neighbor search for a  data set
