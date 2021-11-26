@@ -1,6 +1,8 @@
 # Data-Mining-255
 Link to dataset : https://drive.google.com/drive/u/1/folders/1zCTTgGxLxQZzX8_f4ZXnlWtwNA7jS5Oa
 
+Link to colab : https://colab.research.google.com/drive/1UNUIKcS-RQn1rXkVGjH93mFE2kI51_d0?authuser=1#scrollTo=YlhCTrOkSNy5&uniqifier=1
+
 The dataset consists of medical records of people which helps them into cluster into whether they have a heart disease or not.
 
 ### Objective : Implement various clustering algorithms in colabs
